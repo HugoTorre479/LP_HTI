@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hugotorre479.github.io/LP_HTI/sitemap.xml
